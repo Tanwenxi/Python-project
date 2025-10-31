@@ -1,6 +1,7 @@
 #Input form project
-Name = str(input"First name: ")
-  if Name = "Tan"
-    print("Correct")
+name = input("First name: ")
+#variable is lower case, constant all lower case
+if name == "Tan":
+  print("Correct")
 else:
-    print("Wrong")
+  print("Wrong")
